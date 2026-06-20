@@ -68,13 +68,13 @@ PRESENTACION
    line-height: 0.7em; /*interlineado  */
 } 
 .introduccion-presentacion h1 span{
-    color: #fff;
+    color: #000000;
     font-size: 0.38em; /*42px = 2.62em 16px = ? =0.38*/
 }
 /*------------aprender------------mas*/
 a.aprender-mas{
     font-size: 2.1875em;
-    border: 1px solid #0d5c25;
+    border: 1px solid #000000;
     padding: 30px 50px;
     /*background: yellow;*/
     display: block;
