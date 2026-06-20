@@ -31,12 +31,12 @@ list-style: none;
 }
 .encabezado nav ul li{ 
 display: inline-block;
-/*background:#696969;*/
+/*background:red;*/
 margin-right: -4px;
 }
 .encabezado nav ul li a{ 
 display: block;
-color:white;
+color:#fff;
 padding: 28px;
 border-left: 1px solid #696969;
 text-decoration: none;
