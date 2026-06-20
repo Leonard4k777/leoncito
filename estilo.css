@@ -31,7 +31,7 @@ list-style: none;
 }
 .encabezado nav ul li{ 
 display: inline-block;
-/*background: green;*/
+/*background:#02B502;*/
 margin-right: -4px;
 }
 .encabezado nav ul li a{ 
