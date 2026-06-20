@@ -13,7 +13,7 @@ line-height: 1.4em;
 }
 
 .encabezado{ 
-background:#000000; 
+background:#2c2c2c; 
 overflow: hidden;
 }
 .logo{
@@ -31,12 +31,12 @@ list-style: none;
 }
 .encabezado nav ul li{ 
 display: inline-block;
-/*background:#02B502;*/
+/*background:#696969;*/
 margin-right: -4px;
 }
 .encabezado nav ul li a{ 
 display: block;
-color:black;
+color:white;
 padding: 28px;
 border-left: 1px solid #696969;
 text-decoration: none;
