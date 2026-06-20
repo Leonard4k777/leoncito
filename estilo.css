@@ -50,7 +50,7 @@ PRESENTACION
 -------------------------------------*/ 
 .presentacion{
   /*background: yellow;*/
-  background: radial-gradient(380px at 25% 10%, #a3d4ff, #0460ad);
+  background: radial-gradient(380px at 25% 10%, ##00D129, #0460ad));
   overflow: hidden;
   border-bottom: 3px solid #044e8b; 
 }  
@@ -74,13 +74,13 @@ PRESENTACION
 /*------------aprender------------mas*/
 a.aprender-mas{
     font-size: 2.1875em;
-    border: 1px solid #00D129;
+    border: 1px solid #000000;
     padding: 30px 50px;
-    /*background: black;*/
+    /*background: yellow;*/
     display: block;
     text-align: center;
     margin: 10px 40px;
-    color: #000000;
+    color: #fff;
     text-decoration: none;
     text-shadow: 3px 7px 0 #000;
     border-radius: 10px;
