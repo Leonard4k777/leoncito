@@ -257,7 +257,7 @@ a.aprender-mas:hover{
 }
 .piedepagina nav{ /**** 4  ***/
     display: table-cell;
-    background: black;  /*** elim 7 b ***/
+    background: green;  /*** elim 7 b ***/
     text-align: right; /***6  **/
 }
 .piedepagina nav ul{ /**** 5 ***/
