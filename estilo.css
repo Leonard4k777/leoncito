@@ -235,8 +235,8 @@ a.aprender-mas:hover{
     border: 1px solid #22314d;
     padding: 10px;
     background: #0460ad;
-    color: #fff;
-    text-shadow: 1px 1px 0 #000;
+    color: #000000;
+    text-shadow: 1px 1px 0 #000000;
     box-shadow: 0 -1px 0px 0 #93badc insert;
 }
 .suscripcion form input[type="submit"]:hover{ /*** 5   ***/
@@ -271,11 +271,11 @@ a.aprender-mas:hover{
 }
 .piedepagina nav ul li a{ /**** 7 ***/
     color:#FFFFFF;
-    text-decoration: none;
+    text-decoration:none;
 }
 .piedepagina nav ul li a:hover{ /**** 7 ***/
-    color:#ffffff;
-    text-decoration: underline;
+    color:#FFFFFF;
+    text-decoration:underline;
 }
 /*************Redes sociales***************/
 .social{
