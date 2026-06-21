@@ -252,7 +252,7 @@ a.aprender-mas:hover{
 }
 .piedepagina small{  /***3  ***/
     display: table-cell;
-    background:blue;  /*  elim  7 a **/
+    background:black;  /*  elim  7 a **/
     color: #00D129;  /** 4 **/
 }
 .piedepagina nav{ /**** 4  ***/
