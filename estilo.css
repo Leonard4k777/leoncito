@@ -253,7 +253,7 @@ a.aprender-mas:hover{
 .piedepagina small{  /***3  ***/
     display: table-cell;
     background: black;  /*  elim  7 a **/
-    color: #fff;  /** 4 **/
+    color: #3B8FE3;  /** 4 **/
 }
 .piedepagina nav{ /**** 4  ***/
     display: table-cell;
@@ -270,7 +270,7 @@ a.aprender-mas:hover{
     padding-left: 10px;  /** 7  d ****/
 }
 .piedepagina nav ul li a{ /**** 7 ***/
-    color: #fff;
+    color: #3B8FE3;
     text-decoration: none;
 }
 .piedepagina nav ul li a:hover{ /**** 7 ***/
