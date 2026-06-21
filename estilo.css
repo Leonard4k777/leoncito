@@ -240,7 +240,7 @@ a.aprender-mas:hover{
     box-shadow: 0 -1px 0px 0 #93badc insert;
 }
 .suscripcion form input[type="submit"]:hover{ /*** 5   ***/
-    background: #000000;
+    background: #FFFFFF;
 }
 /***********pie de pagina**************/
 .piedepagina{   /**1 **/
@@ -257,7 +257,7 @@ a.aprender-mas:hover{
 }
 .piedepagina nav{ /**** 4  ***/
     display: table-cell;
-    background:white;  /*** elim 7 b ***/
+    background:black;  /*** elim 7 b ***/
     text-align: right; /***6  **/
 }
 .piedepagina nav ul{ /**** 5 ***/
@@ -270,7 +270,7 @@ a.aprender-mas:hover{
     padding-left: 10px;  /** 7  d ****/
 }
 .piedepagina nav ul li a{ /**** 7 ***/
-    color: #FFFFFF;
+    color: #000000;
     text-decoration: none;
 }
 .piedepagina nav ul li a:hover{ /**** 7 ***/
