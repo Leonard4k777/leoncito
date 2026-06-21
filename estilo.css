@@ -52,7 +52,7 @@ PRESENTACION
   /*background: yellow;*/
   background: radial-gradient(380px at 25% 10%, #00D129, #0460ad));
   overflow: hidden;
-  border-bottom: 3px solid #25B342; 
+  border-bottom: 3px solid #000000; 
 }  
 .introduccion-presentacion{
     float: left;
