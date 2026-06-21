@@ -240,7 +240,7 @@ a.aprender-mas:hover{
     box-shadow: 0 -1px 0px 0 #93badc insert;
 }
 .suscripcion form input[type="submit"]:hover{ /*** 5   ***/
-    background: #FFFFFF;
+    background: #000000;
 }
 /***********pie de pagina**************/
 .piedepagina{   /**1 **/
