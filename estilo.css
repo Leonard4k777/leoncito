@@ -252,12 +252,12 @@ a.aprender-mas:hover{
 }
 .piedepagina small{  /***3  ***/
     display: table-cell;
-    background: black;  /*  elim  7 a **/
+    background:black;  /*  elim  7 a **/
     color: #3B8FE3;  /** 4 **/
 }
 .piedepagina nav{ /**** 4  ***/
     display: table-cell;
-    background: green;  /*** elim 7 b ***/
+    background:green;  /*** elim 7 b ***/
     text-align: right; /***6  **/
 }
 .piedepagina nav ul{ /**** 5 ***/
@@ -274,7 +274,7 @@ a.aprender-mas:hover{
     text-decoration: none;
 }
 .piedepagina nav ul li a:hover{ /**** 7 ***/
-    color: #000000;
+    color: #3B8FE3;
     text-decoration: underline;
 }
 /*************Redes sociales***************/
