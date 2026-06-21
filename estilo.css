@@ -50,7 +50,7 @@ PRESENTACION
 -------------------------------------*/ 
 .presentacion{
   /*background: yellow;*/
-  background: radial-gradient(380px at 25% 10%, ##00D129, #0460ad));
+  background: radial-gradient(380px at 25% 10%, #00D129, #0460ad));
   overflow: hidden;
   border-bottom: 3px solid #25B342; 
 }  
@@ -101,7 +101,7 @@ a.aprender-mas:hover{
 .acceso-rapido{
     background: #21bc4e;
     overflow: hidden;
-    border-bottom: 3px solid #olor:#000000;;
+    border-bottom: 3px solid #color:#000000;;
 }
 .acceso-rapido h2 {
     color: #fff;
