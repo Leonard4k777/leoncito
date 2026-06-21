@@ -86,7 +86,7 @@ a.aprender-mas{
     border-radius: 10px;
     background: linear-gradient(to top, #25B342,#000000);
     box-shadow: 0 8px 0 0 #20732f,
-                0 0 25px 5px #fff;
+                0 0 25px 5px #000000;
 } 
 a.aprender-mas:hover{
     box-shadow: 0 0 25px 5px #000;
